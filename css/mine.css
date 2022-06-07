@@ -1,0 +1,23 @@
+.header{
+    font-size: 5rem;
+    font-weight: 900;
+}
+.pargraph{
+    font-size: 2rem;
+}
+
+.qBtn{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    
+}
+
+.qBtn:hover{
+    background-color: green;
+}
+
+.advice{
+    font-weight: bold;
+    font-size: 2rem;
+}
